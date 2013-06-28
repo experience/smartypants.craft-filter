@@ -1,2 +1,5 @@
 # System files
 .DS_Store
+
+# Vendor files
+/vendor
